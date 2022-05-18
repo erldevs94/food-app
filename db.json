@@ -1,0 +1,22 @@
+{
+  "cuisine": [
+    {
+      "id": 1,
+      "dishItem": "Arrozcaldo",
+      "dishImage": "https://www.kawalingpinoy.com/wp-content/uploads/2013/11/arroz-caldo-manok-3-680x680.jpg",
+      "dishDescription": "Arroz caldo, also spelled Aroskaldo, is a Filipino rice and chicken gruel heavily infused with ginger and garnished with toasted garlic, scallions, and black pepper. It is usually served with calamansi or fish sauce (patis) as condiments, as well as a hard-boiled egg."
+    },
+    {
+      "id": 2,
+      "dishItem": "Spaghetti",
+      "dishImage": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2013%2F12%2F06%2F201304-xl-sauce-simmered-spaghetti-al-pomodoro-2000.jpg&q=60",
+      "dishDescription": "Spaghetti (Italian: [spaˈɡetti]) is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina."
+    },
+    {
+      "id": 3,
+      "dishItem": "Lasagna",
+      "dishImage": "https://www.thespruceeats.com/thmb/-YUYSXc4T2H4P8o2JBApzJ3F5rw=/2069x2069/smart/filters:no_upscale()/white-and-red-sauce-lasagna-recipe-995925-hero-1-fb2c2142b39042069f0c50310047256d.jpg",
+      "dishDescription" : "Lasagna is a wide, flat sheet of pasta. Lasagna can refer to either the type of noodle or to the typical lasagna dish which is a dish made with several layers of lasagna sheets with sauce and other ingredients, such as meats and cheese, in between the lasagna noodles."
+    }
+  ]
+}
