@@ -30,7 +30,6 @@ export default {
 
 <template>
   <div class="row">
-    <p :apiUrl="apiUrl">{{apiUrl}}test</p>
     <div class="col-md-4">
       <figure>
         <img class="mw-100 rounded" :src="strMealThumb" alt="" />
