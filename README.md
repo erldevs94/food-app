@@ -27,3 +27,4 @@ npm run dev
 ```sh
 npm run build
 ```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bd23017e-a4ad-47ee-be45-d213c97b9726/deploy-status)](https://app.netlify.com/sites/random-food-app/deploys)
