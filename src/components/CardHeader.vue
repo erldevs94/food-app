@@ -55,7 +55,7 @@ export default {
           </thead>
           <tbody>
             <template v-for="(value, key) in mealIngredients" :key="key">
-              <tr v-if="mealItem[value]">
+              <tr v-if="mealItem[key]">
                 <td>{{ mealItem[key] }}</td>
                 <td>{{ mealItem[value] }}</td>
               </tr>
